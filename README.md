@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Connect with me:
+<a href="www.linkedin.com/in/samuel-santinelli-701112213" target="_blank">
+
+<img align="center" alt="samuel-linkedin" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="max-width:100%">
+</a>
