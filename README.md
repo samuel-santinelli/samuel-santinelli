@@ -25,8 +25,9 @@ I'm Samuel Santinelli! estudante de T.I em Desenvolvimento de sistemas.
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="max-width:100%">
 </a>
   
-
+#
   
+![Snake animation](https://github.com/samuel-santinelli/samuel-santinelli/blob/output/github-contribution-grid-snake.svg)
   
   
   
