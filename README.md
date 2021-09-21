@@ -27,7 +27,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.
   
 #
   
-![Snake animation](https://github.com/samuel-santinelli/samuel-santinelli/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=samuel-santinelli&repo=samuel-santinelli1&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
   
   
   
