@@ -27,7 +27,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.
   
 #
   
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=samuel-santinelli&repo=samuel-santinelli1&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=samuel-santinelli&repo=samuel-santinelli1&theme=react)](https://github.com/samuel-santinelli/samuel-santinelli)
   
   
   
