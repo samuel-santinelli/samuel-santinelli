@@ -1,7 +1,7 @@
 I'm Samuel Santinelli! estudante de T.I em Desenvolvimento de sistemas.
 <div>
   <a href="https://github.com/samuel-santinelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?samuel-santinellu=anuraghazra&theme=dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?samuel-santinelli=anuraghazra&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-santinelli&layout=compact&langs_count=7&theme=dracula"/>    
 </div>
   <div style="display: inline_block"><br>
