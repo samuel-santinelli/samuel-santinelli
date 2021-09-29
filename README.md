@@ -1,13 +1,9 @@
-I'm Samuel Santinelli! estudante de T.I em Desenvolvimento de sistemas.
-<div>
+## I'm Samuel Santinelli! estudante de T.I em Desenvolvimento de sistemas.
+<div align="center">
   <a href="https://github.com/samuel-santinelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-santinelli&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-santinelli&layout=compact&langs_count=7&theme=gotham"/>    
 </div>
-  
-
- 
-  # skills currently
   <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +12,6 @@ I'm Samuel Santinelli! estudante de T.I em Desenvolvimento de sistemas.
   <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samuel-MySql" height="100" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  
  </div>
   
   ##
