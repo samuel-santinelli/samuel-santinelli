@@ -6,7 +6,7 @@
   <a href="https://github.com/samuel-santinelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-santinelli&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-santinelli&layout=compact&langs_count=7&theme=gotham"/>    
-     <img align="right" height="178" width="350" src="https://c.tenor.com/Txr7RYfzW-EAAAAC/anime-boy.gif" />
+     <img align="right" height="178" width="330" src="https://c.tenor.com/Txr7RYfzW-EAAAAC/anime-boy.gif" />
    
 </div>
   
