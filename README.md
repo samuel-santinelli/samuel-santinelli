@@ -31,7 +31,6 @@
   </div>  
 
 
-
 # Connect with me:
 <a href="https://www.linkedin.com/in/samuel-santinelli-701112213/" target="_blank">
 <img align="center" alt="samuel-linkedin" height="30" width="40"
