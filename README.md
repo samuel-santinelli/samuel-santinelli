@@ -21,7 +21,7 @@
     
  </div>
   
-  ##
+  ## Know more about me
   
   <div>
      <a href="https://www.linkedin.com/in/samuel-santinelli-701112213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
