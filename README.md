@@ -5,9 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-santinelli&layout=compact&langs_count=7&theme=gotham"/>    
   <img align="right" height="178" width="300" src="https://c.tenor.com/Txr7RYfzW-EAAAAC/anime-boy.gif"/>
 </div>
-  
-   ## Experience
-  
   <div style="display: inline_block">
   <img align="center" alt="Samuel-JAVA" height="85" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Samuel-Js" height="85" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
