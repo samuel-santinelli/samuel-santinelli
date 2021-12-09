@@ -1,4 +1,4 @@
-## I'm Samuel Santinelli! estudante de T.I em Desenvolvimento de sistemas.
+## I'm Samuel Santinelli! IT student in Systems Development.
 <div align="center">
   <a href="https://github.com/samuel-santinelli">
  </div>
