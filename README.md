@@ -32,12 +32,14 @@
   </div>  
 
 
-# Connect with me:
+## Connect with me:
 <a href="https://www.linkedin.com/in/samuel-santinelli-701112213/" target="_blank">
-<img align="center" alt="samuel-linkedin" height="30" width="40"
+<img align="center" alt="samuel-linkedin" height="45" width="45"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="max-width:100%">
-<img align="center" alt="samuel-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </a>
+<a href="https://www.figma.com/files/user/1021753403512856048?fuid=1021753403512856048" target="_blank">
+<img align="center" alt="samuel-figma" height="45" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" />
+  </a>
   
 #
 
