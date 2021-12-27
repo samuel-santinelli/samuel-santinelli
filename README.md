@@ -30,7 +30,7 @@
   </div>  
 
 
-## Conecte-se comigo:
+## Conecte-se comigo
 <a href="https://www.linkedin.com/in/samuel-santinelli-701112213/" target="_blank">
 <img align="center" alt="samuel-linkedin" height="45" width="45"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="max-width:100%">
