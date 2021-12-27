@@ -11,7 +11,7 @@
   
 ## Experience
   
-  <div style="display: inline_block">
+<div style="display: inline_block">
   <img align="center" alt="Samuel-JAVA" height="85" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Samuel-Js" height="85" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Samuel-PHP" height="85" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -41,7 +41,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.
 <img align="center" alt="samuel-figma" height="45" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" />
   </a>
   
-#
-
-  
-  
+## Ferramentas que eu uso
+<div style="display: inline_block">
+  <img align="center" alt="Samuel-JAVA" height="85" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
+  <img align="center" alt="Samuel-MYSQL" height="85" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Samuel-ANDROID-STUDIO" height="85" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img align="center" alt="Samuel-POSTMAN" height="40" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
+  <img align="center" alt="Samuel-FIGMA" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
