@@ -4,10 +4,15 @@
 >Adoro trabalhar em equipe e aprender coisas novas!
 
 <div align="center">
+  
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=samuel-santinelli)
+  
   <a href="https://github.com/samuel-santinelli">
  </div>
  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=samuel-santinelli&show_icons=true&theme=gotham&hide_border=true"/>
  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-santinelli&show_icons=true&locale=pt-br&layout=compact&theme=gotham&hide_border=true"/>
+  
+   
 </a>
 
   
