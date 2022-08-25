@@ -37,12 +37,13 @@
   
 ## Ferramentas que eu uso
 <div style="display: inline_block">
-  <img align="center" alt="Samuel-JAVA" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
+  <img align="center" alt="Samuel-VSCODE" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
   <img align="center" alt="Samuel-MYSQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-  <img align="center" alt="Samuel-Arduino" height="45" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img align="center" alt="Samuel-FIGMA" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Samuel-DOCKER" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img align="center" alt="Samuel-POSTMAN" height="45" width="45" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
   <img align="center" alt="Samuel-ANDROID-STUDIO" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img align="center" alt="Samuel-FIGMA" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+          
   
   ## Saiba mais sobre mim
   <div>
