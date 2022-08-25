@@ -1,5 +1,5 @@
 ## I'm Samuel Santinelli! graduated in I.T Systems Development
-.
+
 >Procurando sempre aprender novos conceitos de linguagens com suas infinitas possibilidades, e assim colocando tudo em pratica nos projetos.
 
 >Adoro trabalhar em equipe e aprender coisas novas!
