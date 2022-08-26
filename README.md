@@ -36,7 +36,7 @@
   <img align="center" alt="Samuel-KOTLIN" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
   <img align="center" alt="Samuel-JAVA" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Samuel-Node" height="45" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Samuel-PHP" height="45" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img align="center" alt="Samuel-PHP" height="45" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
  </div>
  
   ## Tecnologias Banco de dados
