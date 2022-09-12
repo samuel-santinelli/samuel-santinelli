@@ -35,9 +35,9 @@
   <img align="center" alt="Samuel-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Samuel-Ts" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Samuel-KOTLIN" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-  <img align="center" alt="Samuel-JAVA" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Samuel-Prisma" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/5853/5853833.png"/>
   <img align="center" alt="Samuel-Node" height="45" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Samuel-PRISMA" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/5853/5853833.png"/>
+  <img align="center" alt="Samuel-JAVA" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Samuel-PHP" height="45" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
  </div>
  
