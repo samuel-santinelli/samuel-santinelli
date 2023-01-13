@@ -14,7 +14,6 @@
  <div align="center" flex-direction="row">
    
  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=samuel-santinelli&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=samuel-santinelli&show_icons=true&theme=gotham#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
   
 </div>
   
