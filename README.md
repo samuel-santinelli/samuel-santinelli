@@ -20,7 +20,7 @@
 <div align="center"> 
 <a href="https://www.linkedin.com/in/samuel-santinelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
-![image](https://user-images.githubusercontent.com/89052474/230897440-76681d23-57cc-4c0d-ba84-fae58b2fa53f.png)
+![image](https://user-images.githubusercontent.com/89052474/233992822-4bc07f7a-2858-48cf-952a-26adbadb8850.png)
  </div>
 
  ### Main skills:
