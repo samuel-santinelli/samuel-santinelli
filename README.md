@@ -23,7 +23,8 @@
   
 <a href="https://www.linkedin.com/in/samuel-santinelli/" target="_blank">
   
-![image](https://user-images.githubusercontent.com/89052474/233992822-4bc07f7a-2858-48cf-952a-26adbadb8850.png)
+![image](https://github.com/samuel-santinelli/samuel-santinelli/assets/89052474/ac25544d-f176-429a-81f0-c54154eea3fd)
+
   
  </a>
   
