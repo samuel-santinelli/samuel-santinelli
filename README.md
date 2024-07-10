@@ -21,7 +21,8 @@
   
 <a href="https://www.linkedin.com/in/samuel-santinelli/" target="_blank">
   
-![image](https://github.com/samuel-santinelli/samuel-santinelli/assets/89052474/ac25544d-f176-429a-81f0-c54154eea3fd)
+![image](https://github.com/samuel-santinelli/samuel-santinelli/assets/89052474/d0559e3c-9f6c-4e1a-9cdf-967c99e6f4ac)
+
 
   
  </a>
