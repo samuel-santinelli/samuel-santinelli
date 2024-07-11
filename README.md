@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samuel-santinelli&theme=shadow-purple&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samuel-santinelli&theme=shadow-purple&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
 
@@ -14,10 +14,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samuel-santinelli&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-
-
-
 
 
 <div align="center"> 
