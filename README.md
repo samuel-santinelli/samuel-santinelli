@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=754ef9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=754ef9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Samuel+Santinelli;Olá,+Meu+nome+é+Samuel+Santinelli;I'm+19+years+old;Atualmente+eu+tenho+19+anos;I'm+from+Brazil;Eu+sou+do+Brasil;I+Graduated+systems+Development;Eu+sou+formado+em+T.I+em+desenvolvimento+de+sistemas;Be+Welcome!;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=754ef9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Samuel+Santinelli;Olá,+Meu+nome+é+Samuel+Santinelli;I'm+19+years+old;Atualmente+eu+tenho+19+anos;I'm+from+Brazil;Eu+sou+do+Brasil;I+Graduated+systems+Development;Possuo+formação+em+T.I+em+desenvolvimento+de+sistemas;Be+Welcome!;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuel-santinelli&bg_color=0d1117&color=754ef9&line=754ef9&point=754ef9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
