@@ -4,16 +4,20 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuel-santinelli&bg_color=0d1117&color=754ef9&line=754ef9&point=754ef9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samuel-santinelli&theme=shadow-purple&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+</div>
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samuel-santinelli&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=samuel-santinelli&show_icons=true&count_private=true&hide_border=true&title_color=754ef9&icon_color=754ef9&text_color=754ef9&bg_color=0d1117" alt=" github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-santinelli&layout=compact&hide_border=true&title_color=754ef9&text_color=754ef9&bg_color=0d1117" />
-</div>
+
 
 
 <div align="center"> 
