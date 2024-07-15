@@ -40,6 +40,10 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=spring-boot&labelColor=0D1117)&nbsp;
 ![Koa](https://img.shields.io/badge/-Koa-0D1117?style=for-the-badge&logo=koa&labelColor=0D1117)&nbsp;
 ![Axios](https://img.shields.io/badge/-Axios-0D1117?style=for-the-badge&logo=axios&labelColor=0D1117)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=microsoftazure&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon&labelColor=0D1117)&nbsp;
+![Openai IA](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=openai&labelColor=0D1117)&nbsp;
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
@@ -63,6 +67,7 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117)&nbsp;
 ![Mocha](https://img.shields.io/badge/-Mocha-0D1117?style=for-the-badge&logo=mocha&labelColor=0D1117)&nbsp;
 ![JUnit](https://img.shields.io/badge/-JUnit-0D1117?style=for-the-badge&logo=junit5&labelColor=0D1117)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117)&nbsp;
 
 ### ORM 
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=green&labelColor=0D1117)&nbsp;
