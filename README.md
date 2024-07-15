@@ -43,7 +43,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=microsoftazure&labelColor=0D1117)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon&labelColor=0D1117)&nbsp;
-![Openai IA](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=openai&labelColor=0D1117)&nbsp;
+![OPENAI](https://img.shields.io/badge/-OPENAI-0D1117?style=for-the-badge&logo=openai&labelColor=0D1117)&nbsp;
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
