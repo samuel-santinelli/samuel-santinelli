@@ -64,15 +64,6 @@
 ![Mocha](https://img.shields.io/badge/-Mocha-0D1117?style=for-the-badge&logo=mocha&labelColor=0D1117)&nbsp;
 ![JUnit](https://img.shields.io/badge/-JUnit-0D1117?style=for-the-badge&logo=junit5&labelColor=0D1117)&nbsp;
 
-
-### Studying in this moment:
-![Vue.js](https://img.shields.io/badge/-Vue.JS-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=yellow&labelColor=0D1117)&nbsp; 
-![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=Redux&logoColor=purple&labelColor=0D1117)&nbsp;
-
 ### ORM 
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=green&labelColor=0D1117)&nbsp;
 
