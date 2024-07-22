@@ -5,8 +5,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuel-santinelli&bg_color=0d1117&color=754ef9&line=754ef9&point=754ef9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=samuel-santinelli&theme=shadow-purple&hide_border=true&card_width=900)](https://git.io/streak-stats)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=samuel-santinelli&theme=shadow-purple&hide_border=true&card_width=900)](https://git.io/streak-stats)
 
 </div>
 
