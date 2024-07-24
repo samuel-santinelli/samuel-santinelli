@@ -6,6 +6,8 @@
 
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=samuel-santinelli&theme=shadow-purple&hide_border=true&card_width=900)](https://git.io/streak-stats)
+
 </div>
 
 <p align="center">
