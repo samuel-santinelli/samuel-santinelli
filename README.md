@@ -10,10 +10,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samuel-santinelli&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 
 ### Front-end
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
