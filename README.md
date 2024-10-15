@@ -6,7 +6,7 @@
 
 <div align="center">
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=samuel-santinelli&theme=shadow-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
 
