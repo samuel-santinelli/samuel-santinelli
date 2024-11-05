@@ -67,6 +67,8 @@
 
 ### ORM 
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=green&labelColor=0D1117)&nbsp;
+![Hibernate](https://img.shields.io/badge/-Hibernate-0D1117?style=for-the-badge&logo=hibernate&logoColor=brown&labelColor=0D1117)&nbsp;
+
 
 
 <div align="center">
