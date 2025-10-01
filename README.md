@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=754ef9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5A4B35&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=754ef9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Samuel+Santinelli;I'm+19+years+old;I'm+from+Brazil;I+Graduated+T.I+Systems+Development;I'm+studying+Computer+Science;Be+Welcome!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5A4B35&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Samuel+Santinelli;I'm+19+years+old;I'm+from+Brazil;I+Graduated+T.I+Systems+Development;I'm+studying+Computer+Science;Be+Welcome!:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuel-santinelli&bg_color=0d1117&color=754ef9&line=754ef9&point=754ef9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuel-santinelli&bg_color=0d1117&color=5A4B35&line=5A4B35&point=5A4B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=samuel-santinelli&theme=shadow-purple&date_format=M%20j%5B%2C%20Y%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=samuel-santinelli&theme=shadow-brown&date_format=M%20j%5B%2C%20Y%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
 
