@@ -1,79 +1,100 @@
-<div align="center">
+<!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=140&section=header&text=Samuel%20Santinelli&fontColor=FFFFFF&fontSize=42"/>
+<!--                       HEADER                               -->
 
-<br/>
+<!-- ========================================================= -->
 
-<h2>
-Backend Software Engineer
-</h2>
+<p align="center">
+  <img width="100%" height="400" alt="banner_minimalista__3_-removebg-preview" src="https://github.com/user-attachments/assets/ffa867a3-6599-4339-9f19-035d0a1ab4a8" />
 
-<p>
-Financial Systems • Distributed Architecture • Cloud Engineering
 </p>
 
 <br/>
 
-<a href="#english">English</a> • <a href="#portuguese">Português</a>
+<div align="center">
+
+# Backend Software Engineer
+
+### Financial Systems • Distributed Architecture • Cloud Engineering
+
+Building secure, scalable and reliable financial platforms.
+
+<br>
+
+<a href="./README.pt-BR.md">
+  Português
+</a>
 
 </div>
 
 ---
 
-<a id="english"></a>
-
 # About
 
-Backend Software Engineer with more than 4 years of experience building high-criticality financial systems.
+Backend Software Engineer with more than 4 years of experience designing and maintaining high-criticality financial systems.
 
-Experienced in designing secure APIs, microservices and distributed applications with strong focus on reliability, scalability and operational excellence.
+Professional experience focused on secure APIs, distributed architectures and production-grade systems with emphasis on reliability, scalability and operational excellence.
 
-Professional background involving:
+Main areas of experience:
 
-* OAuth2 authorization flows;
-* AES encryption;
-* PCI DSS and LGPD compliance;
-* Event-driven architecture;
-* Production observability;
-* High availability systems.
+* OAuth2 authorization flows and secure authentication mechanisms;
+* AES encryption and security best practices;
+* PCI DSS and LGPD compliance requirements;
+* Event-Driven Architecture and asynchronous processing;
+* Microservices architecture;
+* Production observability and incident response;
+* High availability and performance optimization.
 
 ---
 
 # Engineering Impact
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="25%">
-<h2>99.8%</h2>
-Availability
+
+## 99.8%
+
+System Availability
+
 </td>
 
 <td align="center" width="25%">
-<h2>40%</h2>
-Latency Reduction
+
+## 40%
+
+Lower Processing Latency
+
 </td>
 
 <td align="center" width="25%">
-<h2>60%</h2>
-Security Alerts Reduction
+
+## 60%
+
+Reduction in Security Audit Alerts
+
 </td>
 
 <td align="center" width="25%">
-<h2>4+</h2>
-Years Experience
+
+## 4+
+
+Years Building Software
+
 </td>
+
 </tr>
 </table>
 
 ---
 
-# Core Backend Stack
+# Core Backend Technologies
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
@@ -83,51 +104,39 @@ Years Experience
 
 # Distributed Systems & Architecture
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Microservices-0D1117?style=for-the-badge&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Event_Driven-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Event Driven Architecture-0D1117?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/DDD-0D1117?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/TDD-0D1117?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Clean Architecture-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SOLID-0D1117?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# Cloud & Platform
+# Cloud, DevOps & Observability
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
-</p>
-
----
-
-# Security & Reliability
-
-<p>
-
-<img src="https://img.shields.io/badge/OAuth2-0D1117?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AES_Encryption-0D1117?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PCI_DSS-0D1117?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LGPD-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
 
@@ -137,12 +146,32 @@ Years Experience
 
 ---
 
-# Additional Backend Experience
+# Databases & Data Management
 
-<p>
+<p align="left">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</p>
+
+---
+
+# Additional Professional Experience
+
+<p align="left">
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
 </p>
+
+---
